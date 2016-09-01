@@ -16,7 +16,7 @@ ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
 RunType=cci
-LastCodeGenerationVer=
+LastCodeGenerationVer=12.53.0.1203
 DisableRegenerate=0
 Description=
 ScriptLocale=ja-JP
@@ -26,10 +26,10 @@ Action=Action.c
 Lib-View=Lib-View.c
 vuser_end=vuser_end.c
 [VisibleActions]
+Lib-View=1
 vuser_init=1
 Action=1
 vuser_end=1
-Lib-View=1
 [VuserProfiles]
 Profiles=Default Profile
 [CfgFiles]
