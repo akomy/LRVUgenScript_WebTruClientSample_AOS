@@ -61,9 +61,13 @@ Action=1
 Lib-View=1
 vuser_end=1
 [TransactionsOrder]
-Order=
+Order="Top Screen__*delimiter*__Select Laptop__*delimiter*__Cart Clear"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
+[Transactions]
+"Top Screen"=
+"Select Laptop"=
+"Cart Clear"=

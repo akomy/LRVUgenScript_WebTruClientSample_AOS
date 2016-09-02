@@ -135,7 +135,7 @@
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[Init]]></AName>
-<Summary sTime="2016/09/02 - 16:20:42" eTime="2016/09/02 - 16:20:42" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="2016/09/02 - 17:19:54" eTime="2016/09/02 - 17:19:54" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[Init サマリ]]></Disp>
 </NodeArgs>
@@ -145,86 +145,86 @@
 <AName><![CDATA[Action]]></AName>
 <Step rID="T5">
 <Obj plainTxt="False" ><![CDATA[Navigate]]></Obj>
-<Details plainTxt="False" ><![CDATA[3: http://www.advantageonlineshopping.com に移動 was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:47]]></Time>
-<TimeTick>1472800847</TimeTick>
+<Details plainTxt="False" ><![CDATA[1: http://www.advantageonlineshopping.com に移動 was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:19:59]]></Time>
+<TimeTick>1472804399</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="9" status="Passed" >
 <Disp><![CDATA[Navigate]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T6">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[4: LAPTOPS Shop Now  をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:49]]></Time>
-<TimeTick>1472800849</TimeTick>
+<Details plainTxt="False" ><![CDATA[2: LAPTOPS Shop Now  をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:00]]></Time>
+<TimeTick>1472804400</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="10" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T7">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[6: image (2) 画像 をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:50]]></Time>
-<TimeTick>1472800850</TimeTick>
+<Details plainTxt="False" ><![CDATA[4: image (2) 画像 をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:02]]></Time>
+<TimeTick>1472804402</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="11" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T8">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[7: GRAY  をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:51]]></Time>
-<TimeTick>1472800851</TimeTick>
+<Details plainTxt="False" ><![CDATA[5: RED  をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:04]]></Time>
+<TimeTick>1472804404</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="12" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T9">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[8: Plus  をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:51]]></Time>
-<TimeTick>1472800851</TimeTick>
+<Details plainTxt="False" ><![CDATA[6: Plus  をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:05]]></Time>
+<TimeTick>1472804405</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="13" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T10">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[9: ADD TO CART ボタン をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:52]]></Time>
-<TimeTick>1472800852</TimeTick>
+<Details plainTxt="False" ><![CDATA[8: ADD TO CART ボタン をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:06]]></Time>
+<TimeTick>1472804406</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="14" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T11">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[11: element (3)  をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:53]]></Time>
-<TimeTick>1472800853</TimeTick>
+<Details plainTxt="False" ><![CDATA[10: element (4)  をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:08]]></Time>
+<TimeTick>1472804408</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="15" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T12">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[13: element (2)  をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:54]]></Time>
-<TimeTick>1472800854</TimeTick>
+<Details plainTxt="False" ><![CDATA[12: REMOVE  をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:09]]></Time>
+<TimeTick>1472804409</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="16" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T13">
 <Obj plainTxt="False" ><![CDATA[Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[15: HOME リンク をクリック was finished]]></Details>
-<Time><![CDATA[2016/09/02 - 16:20:55]]></Time>
-<TimeTick>1472800855</TimeTick>
+<Details plainTxt="False" ><![CDATA[13: CONTINUE SHOPPING リンク をクリック was finished]]></Details>
+<Time><![CDATA[2016/09/02 - 17:20:10]]></Time>
+<TimeTick>1472804410</TimeTick>
 <NodeArgs eType="General" icon="0" nRep="17" status="Passed" >
 <Disp><![CDATA[Click]]></Disp>
 </NodeArgs>
 </Step>
-<Summary sTime="2016/09/02 - 16:20:42" eTime="2016/09/02 - 16:20:55" passed="9" failed="0" warnings="0" ></Summary>
+<Summary sTime="2016/09/02 - 17:19:54" eTime="2016/09/02 - 17:20:10" passed="9" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="8" status="Passed" >
 <Disp><![CDATA[Action サマリ]]></Disp>
 </NodeArgs>
@@ -235,12 +235,12 @@
 </DIter>
 <Action rID="T14">
 <AName><![CDATA[End]]></AName>
-<Summary sTime="2016/09/02 - 16:20:55" eTime="2016/09/02 - 16:20:55" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="2016/09/02 - 17:20:10" eTime="2016/09/02 - 17:20:10" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="20" >
 <Disp><![CDATA[End サマリ]]></Disp>
 </NodeArgs>
 </Action>
-<Summary sTime="2016/09/02 - 16:20:38" eTime="2016/09/02 - 16:20:56" passed="9" failed="0" warnings="0" ></Summary>
+<Summary sTime="2016/09/02 - 17:19:50" eTime="2016/09/02 - 17:20:12" passed="9" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
 <Disp><![CDATA[テスト WebTruClient_Sample_20160901_v00 サマリ]]></Disp>
 </NodeArgs>
