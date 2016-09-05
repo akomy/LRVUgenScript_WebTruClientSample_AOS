@@ -1,0 +1,1 @@
+{"windows":[{"tabs":[],"selected":0,"_closedTabs":[],"busy":false,"width":1311,"height":888,"screenX":144,"screenY":6,"sizemode":"normal"}],"selectedWindow":1,"_closedWindows":[],"session":{"lastUpdate":1473072246305,"startTime":1473072227151,"recentCrashes":0},"global":{}}
